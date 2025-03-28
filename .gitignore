@@ -5,3 +5,5 @@
 *lockfile
 *.out
 **tags
+.vscode/
+build/
